@@ -6,7 +6,7 @@ const bot = new Client();
 
 const ytdl = require("ytdl-core");
 
-const token = 'NzQ2NDUwNDg5MjQzMjA1NzYz.X0AgMQ.pB7vubQDKPIPdLgu-m5WBr3gn6A';
+const token = '';
 
 const PREFIX = '!'
 
